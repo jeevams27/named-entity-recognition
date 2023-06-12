@@ -161,6 +161,12 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ## OUTPUT:
 
+###Model:
+![](./o4.png)
+
+###Loss and Accuracy:
+![](./o5.png)
+
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
 ![](./o2.png)
